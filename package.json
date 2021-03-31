@@ -20,5 +20,13 @@
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
-  "description": ""
+  "description": "Final project for ZTM course",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneagoie/smart-brain-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aneagoie/smart-brain-api/issues"
+  },
+  "homepage": "https://github.com/aneagoie/smart-brain-api#readme"
 }
